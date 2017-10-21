@@ -1,0 +1,11 @@
+{
+	"title"		:	"Tiny Rick's TTT Pack",
+	"type"		:	"gamemode",
+	"tags"		:	[ "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
